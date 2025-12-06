@@ -1,16 +1,8 @@
-# bmi_calculator
+# bmi-bfp_calculator_app
 
-A new Flutter project.
+This is a mobile app project to calculate your bmi (body mass index) and bfp (body fat percentage)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="388" height="858" alt="image" src="https://github.com/user-attachments/assets/a53d2523-6007-46db-b1f9-1efac285a7f6" />
+<img width="388" height="860" alt="image" src="https://github.com/user-attachments/assets/7be6b1cc-57f2-4455-a175-cd2f294e2173" />
